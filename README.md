@@ -5,4 +5,4 @@ Originally conducted in Spring 2017. Sample of wider Stata experience.
 
 Data not included here.
 
-Types of analyses include: creating variable, linear regress, IV regression, fixed effects.
+Types of analyses include: creating variable, linear regression, IV regression, fixed effects.
